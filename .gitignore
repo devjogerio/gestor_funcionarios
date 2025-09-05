@@ -1,0 +1,24 @@
+
+# Arquivos de dados e notebooks
+/funcionarios.xlsx
+/Projeto+Gestão+de+Funcionários.ipynb
+
+# Arquivos temporários do sistema
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.env/
+
+# Notebooks Jupyter temporários
+*.ipynb_checkpoints
+
+# Arquivos Excel exportados
+*.xlsx
+
+# Configurações do VSCode
+.vscode/
