@@ -12,13 +12,14 @@ Este projeto é uma aplicação desktop em Python para gestão de funcionários,
 
 ## Como executar
 
+
 1. Instale as dependências:
    ```bash
-   pip install pandas
+   pip install -r requirements.txt
    ```
-2. Execute o script principal:
+2. Execute o sistema:
    ```bash
-   python Projeto_Abas_Gestao_de_Funcionarios.py
+   python main.py
    ```
 
 ## Funcionalidades
@@ -37,5 +38,11 @@ Este projeto é uma aplicação desktop em Python para gestão de funcionários,
 - O projeto pode ser expandido para incluir mais funcionalidades conforme necessário.
 
 ---
+
+### Dependências principais
+
+- pandas
+- openpyxl
+- tk
 
 Desenvolvido por [Seu Nome].
