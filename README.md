@@ -45,4 +45,4 @@ Este projeto é uma aplicação desktop em Python para gestão de funcionários,
 - openpyxl
 - tk
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por [devjogerio].
